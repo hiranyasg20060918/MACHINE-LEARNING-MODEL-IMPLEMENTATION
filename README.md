@@ -3,6 +3,8 @@ Iris Flower Classification using Scikit-Learn
 
 Company: CODTECH IT SOLUTIONS
 Domain: Python Programming / Machine Learning
+Name : Hiranya Santosh Ghute 
+Intern ID:CT04DY505
 Duration: 4 Weeks
 Mentor: Neela Santosh
 
